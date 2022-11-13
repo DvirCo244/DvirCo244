@@ -16,6 +16,6 @@
 <h2>Some More Info</h2>
 
 - :hand: My Discord Account: Dvir#6666
-- :one::six: Years Old
+- :one::seven: Years Old
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvirCo244)](https://github.com/anuraghazra/github-readme-stats)
