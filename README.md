@@ -15,7 +15,7 @@
 <br />
 <h2>Some More Info</h2>
 
-- :hand: My Discord Account: Dvir#6666
+- :hand: My Discord Account: CometBlader#1195
 - :one::seven: Years Old
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DvirCo244)](https://github.com/anuraghazra/github-readme-stats)
