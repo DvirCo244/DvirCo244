@@ -4,12 +4,12 @@
 - :globe_with_meridians: I am currently learning java/web development/ethical hacking
 <br>
 <br />
-<h2>2021 GOALS :poop:</h2>
+<h2>2023 GOALS :poop:</h2>
 
-- 🤖 learn web development like a real profssional 
-- :unlock: Learn Node Js
+- 🤖 become c master
+- :unlock: Learn python and machine learning
 - :open_file_folder: Upload More Repositories
-- become hacker 😊
+- Advance in university studies 😊
 
 <br>
 <br />
