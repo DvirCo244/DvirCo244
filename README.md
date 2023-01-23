@@ -1,7 +1,7 @@
 ### Hey, I am Dvir :wave:
 <br />
 <br />
-- :globe_with_meridians: I am currently learning java/web development/ethical hacking
+- :globe_with_meridians: I am currently learning cs in open university
 <br>
 <br />
 <h2>2023 GOALS :poop:</h2>
